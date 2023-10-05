@@ -15,4 +15,5 @@ for inicio, fin in horarios:
         peliculas_vistas += 1  
 
 
-print("Número máximo de películas que puedes ver:", peliculas_vistas)
+print("Número máximo de películas que puedes ver:", peliculas_vistas) 
+# 
