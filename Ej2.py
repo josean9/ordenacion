@@ -1,0 +1,1 @@
+peso = int(input("Escriba el peso maximo por gondola: "))
